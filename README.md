@@ -2,5 +2,4 @@
 
 ![image](piano-img.png)
 
-[![Video](file:piano-vid.mov)
-
+[![Video](piano-vid.mov)
